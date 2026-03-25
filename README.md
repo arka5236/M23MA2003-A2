@@ -13,7 +13,7 @@ On the left sidebar of Colab, click the Folder icon (Files).
 
 Click the Upload icon (a page with an up arrow).
 
-Select and upload your raw text file (e.g., NLU_text_data.txt).
+Select and upload your raw text file (e.g., Corpus.txt).
 
 Alternative: If the code is set up to mount Google Drive, run the drive-mounting cell and ensure the text file is in the correct Drive directory.
 
